@@ -2,10 +2,10 @@
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyCUa3OmzBQAV9MHxQg6Pgl2s5533V5qjEI",
-  authDomain: "coder-bay-fee9d.firebaseapp.com",
-  databaseURL: "https://coder-bay-fee9d.firebaseio.com",
-  storageBucket: "coder-bay-fee9d.appspot.com"
+  apiKey: "AIzaSyCZqQahP_viyWC7vfnWgbWum29k4",
+  authDomain: "yoyo-jump-shark.firebaseapp.com",
+  databaseURL: "https://yoyo-jump-shark.firebaseio.com",
+  storageBucket: "yoyo-jump-shark.appspot.com"
 };
 
 firebase.initializeApp(config);
